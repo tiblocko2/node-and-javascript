@@ -1,0 +1,15 @@
+{
+  "name": "tusur-nodejs-test-1.3",
+  "version": "1.0.0",
+  "description": "Unit test for lesson 1.3 of TUSUR node.js courses",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "mikhael@milikhin.name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2"
+  }
+}

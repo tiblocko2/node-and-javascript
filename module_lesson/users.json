@@ -1,0 +1,166 @@
+[
+  {
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "rolf",
+      "last": "hegdal"
+    },
+    "location": {
+      "street": "ljan terrasse 346",
+      "city": "vear",
+      "state": "rogaland",
+      "postcode": "3095",
+      "coordinates": {
+        "latitude": "54.8646",
+        "longitude": "-97.3136"
+      },
+      "timezone": {
+        "offset": "-10:00",
+        "description": "Hawaii"
+      }
+    },
+    "email": "rolf.hegdal@example.com",
+    "login": {
+      "uuid": "c4168eac-84b8-46ea-b735-c9da9bfb97fd",
+      "username": "bluefrog786",
+      "password": "ingrid",
+      "salt": "GtRFz4NE",
+      "md5": "5c581c5748fc8c35bd7f16eac9efbb55",
+      "sha1": "c3feb8887abed9ec1561b9aa2c9f58de21d1d3d9",
+      "sha256": "684c478a98b43f1ef1703b35b8bbf61b27dbc93d52acd515e141e97e04447712"
+    },
+    "dob": {
+      "date": "1975-11-12T06:34:44Z",
+      "age": 42
+    },
+    "registered": {
+      "date": "2015-11-04T22:09:36Z",
+      "age": 2
+    },
+    "phone": "66976498",
+    "cell": "40652479",
+    "id": {
+      "name": "FN",
+      "value": "12117533881"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/65.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/65.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/65.jpg"
+    },
+    "nat": "NO"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Deniz",
+      "last": "Demirbaş"
+    },
+    "location": {
+      "street": {
+        "number": 3941,
+        "name": "Tunalı Hilmi Cd"
+      },
+      "city": "Bayburt",
+      "state": "Malatya",
+      "country": "Turkey",
+      "postcode": 75593,
+      "coordinates": {
+        "latitude": "71.0877",
+        "longitude": "-17.3468"
+      },
+      "timezone": {
+        "offset": "+7:00",
+        "description": "Bangkok, Hanoi, Jakarta"
+      }
+    },
+    "email": "deniz.demirbas@example.com",
+    "login": {
+      "uuid": "34c6ad8b-cba7-48ef-a72b-3f0f881e4b76",
+      "username": "bigpanda323",
+      "password": "ingrid",
+      "salt": "WSPBF60N",
+      "md5": "92b74592be15aa3735c8fd686ca0a5a1",
+      "sha1": "7b116285bf7c6eaac23e464b812c5de04bda718c",
+      "sha256": "27d30c74d02b7983dcc792ca33bbca5495e9042d43441e3c55f047cd0c5ffbeb"
+    },
+    "dob": {
+      "date": "1996-04-29T06:38:56.352Z",
+      "age": 23
+    },
+    "registered": {
+      "date": "2002-05-27T06:26:03.314Z",
+      "age": 17
+    },
+    "phone": "(551)-827-4484",
+    "cell": "(751)-158-6579",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/98.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/98.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/98.jpg"
+    },
+    "nat": "TR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Louis",
+      "last": "Jones"
+    },
+    "location": {
+      "street": {
+        "number": 4387,
+        "name": "36th Ave"
+      },
+      "city": "Killarney",
+      "state": "Yukon",
+      "country": "Canada",
+      "postcode": "B7I 1P8",
+      "coordinates": {
+        "latitude": "-63.5199",
+        "longitude": "-29.8353"
+      },
+      "timezone": {
+        "offset": "-12:00",
+        "description": "Eniwetok, Kwajalein"
+      }
+    },
+    "email": "louis.jones@example.com",
+    "login": {
+      "uuid": "870717fe-65f7-4f16-b56a-036df25ff030",
+      "username": "greenostrich137",
+      "password": "electra",
+      "salt": "zt7B9hAo",
+      "md5": "28875434edbeb4dc84c152756d2bffaa",
+      "sha1": "86db3f9a80883b22641e5eda614c36d5a7641c78",
+      "sha256": "dc998bd2c55087484fedf9e2e115920fd75b70a028e1b3b2b49dd93fc60d29e2"
+    },
+    "dob": {
+      "date": "1955-02-15T02:03:51.946Z",
+      "age": 64
+    },
+    "registered": {
+      "date": "2009-10-01T09:34:43.870Z",
+      "age": 10
+    },
+    "phone": "913-990-2041",
+    "cell": "898-684-4114",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/86.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/86.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/86.jpg"
+    },
+    "nat": "CA"
+  }
+]
